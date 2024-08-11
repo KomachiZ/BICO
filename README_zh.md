@@ -78,14 +78,14 @@ BICO探索了API粒度与大语言模型理解能力之间的平衡：
    ```
 
 ## Resources & Thanks
-# This project references and uses the following projects:
+### This project references and uses the following projects:
 
 - [QuickSight Assets-as-Code](https://github.com/aws-samples/amazon-quicksight-assets-as-code-sample?tab=readme-ov-file#quicksight-assets-as-code)
 - [langchain-aws](https://github.com/langchain-ai/langchain-aws) 
 - [data-analysis-llm-agent](https://github.com/crazycloud/data-analysis-llm-agent/tree/main)
 - [Bedrock-AIChatbot-Sample](https://github.com/hayao-k/Bedrock-AIChatbot-Sample)
 
-# This project was inspired by the following blog.
+### This project was inspired by the following blog.
 - [Prompt 高级技巧：借助伪代码精准的控制 LLM 的输出结果和定义其执行逻辑](https://baoyu.io/blog/prompt-engineering/advanced-prompting-using-pseudocode-to-control-llm-output)
 - [Building language agents as graphs](https://langchain-ai.github.io/langgraph/)
 
