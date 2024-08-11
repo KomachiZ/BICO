@@ -48,7 +48,7 @@ BICO explores the balance between API granularity and LLM comprehension:
 
 - 📊 Natural language to SQL query conversion (Text2SQL)
 - 🎨 AI-driven QuickSight dashboard creation (Text2Artifact)
-- 🧠 Navigating complex relationships between tables with varying granularities
+- 🧠 Navigating and aligning complex relationships between tables with varying granularities
 - ⚡ Optimization-aware query construction and dashboard design
 - 🖼️ Handle-based object management for artifact elements
 - 📝 Pseudo-code prompts for guided AI operations
@@ -92,3 +92,9 @@ BICO explores the balance between API granularity and LLM comprehension:
 ## 📜 License
 
 BICO is released under the [MIT License](LICENSE).
+
+## Apendix
+
+The project won the second prize in the AWS GCR Hackathon.
+<img src="https://github.com/user-attachments/assets/85747fe3-ecd8-4d9f-8d28-4bd21ea9e60c" alt="Image" width="300"/>
+
