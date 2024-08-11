@@ -14,7 +14,7 @@ BICO（商业智能助手）是一个概念验证项目，旨在探索大型语�
 ## Text2Artifact Capability
 BICO translates natural language into QuickSight dashboards:
 
-https://github.com/user-attachments/assets/28269ad0-0c5f-4c7b-9f51-408b6de160ff
+https://github.com/user-attachments/assets/a15bb0c4-9ea0-4d04-a776-5cdb86591c65
 
 *<span style="color: #B0B0B0;">评论: 大语言模型介入平台服务成为现实</span>*
 
