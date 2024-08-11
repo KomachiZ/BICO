@@ -12,15 +12,18 @@ BICO (Business Intelligence Companion) is a PoC project that explores the integr
 
 
 ## Text2Artifact Capability
-BICO translate natural language into complex QuickSight dashboards:
+BICO translates natural language into QuickSight dashboards:
 
+https://github.com/user-attachments/assets/28269ad0-0c5f-4c7b-9f51-408b6de160ff
 
+*<span style="color: #B0B0B0;">comment: LLM intervention platform service becomes a reality</span>*
 
 ## Text2SQL Capability
 BICO in action as it generates optimized SQL queries from natural language:
 
-https://github.com/user-attachments/assets/65ec01f3-aabc-4c91-85ed-95970094c68f
+https://github.com/user-attachments/assets/d929013d-2821-4285-88bc-3616b10b6421
 
+*<span style="color: #B0B0B0;">comment: Extract every ounce of reasoning ability from the LLM in responding to the query.</span>*
 
 
 ## ✨ Key Innovations
