@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/28269ad0-0c5f-4c7b-9f51-408b6de160ff
 ## Text2SQL Capability
 BICO in action as it generates optimized SQL queries from natural language:
 
-https://github.com/user-attachments/assets/d929013d-2821-4285-88bc-3616b10b6421
+https://github.com/user-attachments/assets/c567d70c-5c51-4702-bfc1-4b0db286a90f
 
 *<span style="color: #B0B0B0;">comment: Extract every ounce of reasoning ability from the LLM in responding to the query.</span>*
 
