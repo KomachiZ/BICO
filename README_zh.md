@@ -97,6 +97,7 @@ BICO is released under the [MIT License](LICENSE).
 ## Appendix
 
 该项目获得AWS GCR Hackathon 二等奖
+
 <img src="https://github.com/user-attachments/assets/85747fe3-ecd8-4d9f-8d28-4bd21ea9e60c" alt="Image" width="300"/>
 
 
