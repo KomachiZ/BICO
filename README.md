@@ -1,16 +1,14 @@
-# 🤖 BICO: Business Intelligence Companion
+# BICO: Business Intelligence Companion
 
 <div align="center">
 
-[English](./README.md) | [简体中文](./README.zh.md)
+[English](./README.md) | [简体中文](./README_zh.md)
 
 </div>
 
 ## Exploring the Frontier of Text2Artifact in Business Intelligence
 
-BICO (Business Intelligence Companion) is a Poc project that explores the integration of Large Language Models (LLMs) with existing platform services, resolutioning how we interact with complex Business Intelligence (BI) tools. By leveraging the power of AWS services like Bedrock, OpenSearch, and QuickSight, BICO transforms abstract human queries into structured API calls, making sophisticated BI operations accessible to a wider audience.
-
-![BICO Overview](https://via.placeholder.com/800x400.png?text=BICO+Overview)
+BICO (Business Intelligence Companion) is a PoC project that explores the integration of Large Language Models (LLMs) with existing platform services, resolutioning how we interact with complex Business Intelligence (BI) tools. By leveraging the power of AWS services like Bedrock, OpenSearch, and QuickSight, BICO transforms abstract human queries into structured API calls, making sophisticated BI operations accessible to a wider audience.
 
 
 ## Text2Artifact Capability
@@ -60,7 +58,7 @@ BICO explores the balance between API granularity and LLM comprehension:
 - 🔍 Explore optimal API designs for LLM integration
 - 🌟 Help shape the future of AI-assisted technology interaction
 
-## 🚀 Getting Started
+## 🛠️ Getting Started
 
 1. Set permissions for AWS IAM. 
 
