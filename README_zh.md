@@ -14,14 +14,16 @@ BICO（商业智能助手）是一个概念验证项目，旨在探索大型语�
 ## Text2Artifact Capability
 BICO translates natural language into QuickSight dashboards:
 
-https://github.com/user-attachments/assets/a15bb0c4-9ea0-4d04-a776-5cdb86591c65
+
+https://github.com/user-attachments/assets/07b1b100-e05f-453c-b4de-b0feef7e04b9
+
 
 *<span style="color: #B0B0B0;">评论: 大语言模型介入平台服务成为现实</span>*
 
 ## Text2SQL Capability
 BICO in action as it generates optimized SQL queries from natural language:
 
-https://github.com/user-attachments/assets/d929013d-2821-4285-88bc-3616b10b6421
+https://github.com/user-attachments/assets/14449600-a671-48da-88b7-cec680a414bb
 
 *<span style="color: #B0B0B0;">评论：榨干大语言模型在响应查询时的推理能力</span>*
 
