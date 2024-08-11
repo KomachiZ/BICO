@@ -36,7 +36,7 @@ BICO实现了"Text2Artifact"的能力, 拓展了Text2SQL和Text2Platform等理�
 
 - 🧠 智能解析用户意图并转化为特定平台操作
 - 🔧 动态生成API调用序列以满足复杂请求
-- 🎨 通过对话创建和修改平台制品（如SQL查询、QuickSight仪表板）
+- 🎨 通过对话创建和修改平台结构化数据（如SQL查询、QuickSight仪表板）
 
 ### 2. LLM-Friendly API Design
 
