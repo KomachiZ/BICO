@@ -46,8 +46,8 @@ BICO探索了API粒度与大语言模型理解能力之间的平衡：
 
 ## ✨ Features
 
-- 📊 自然语言到SQL查询的转换（TEXT2SQL）
-- 🎨 AI驱动的QuickSight仪表板创建（TEXT2Artifact）
+- 📊 自然语言到SQL查询的转换（Text2SQL）
+- 🎨 AI驱动的QuickSight仪表板创建（Text2Artifact）
 - 🧠 导航与对齐具有不同粒度的表之间的复杂关系
 - ⚡ 优化感知的查询构建和仪表板设计
 - 🖼️ 基于句柄的制品元素对象管理
@@ -97,6 +97,6 @@ BICO is released under the [MIT License](LICENSE).
 ## Appendix
 
 该项目获得AWS GCR Hackathon 二等奖
-![4521723383801_ pic](https://github.com/user-attachments/assets/85747fe3-ecd8-4d9f-8d28-4bd21ea9e60c)
+<img src="https://github.com/user-attachments/assets/85747fe3-ecd8-4d9f-8d28-4bd21ea9e60c" alt="Image" width="300"/>
 
 
